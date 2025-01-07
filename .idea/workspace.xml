@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fa3792b-ca56-45ba-b1ae-7e64d873a356" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/APi vs Class.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/How to create String(JPN).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/JDBC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Quiz1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/VO and DTO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/What is CollectionFramework.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/How to create String.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/JDBC(KR).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Quiz1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/VO and DTO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/What is CollectionFramework.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/WhatisGeneric.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-root.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/ArrayListBestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/CollectionBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/DataBaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/GsonFromAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/GsonToAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/HelloWorldString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/IntegerStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/InterFaceAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MinMaxFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyBookArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyIntArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyObjectArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/RANdomAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/WrapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/intArrayBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MovieListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/BookDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MSSQLDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MinMaxFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MovieDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MysqlDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/ObjectArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/OracleDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/StringSplit.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2qtfCGvswsvBIOEG1g2byVj1xIS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListBestTest.executor": "Run",
+    "Application.ArrayListTest.executor": "Run",
+    "Application.CollectionBasic.executor": "Run",
+    "Application.DataBaseConnection.executor": "Run",
+    "Application.GsonFromAPI.executor": "Run",
+    "Application.GsonToAPI.executor": "Run",
+    "Application.HelloWorldString.executor": "Run",
+    "Application.IntegerStringTest.executor": "Run",
+    "Application.InterFaceAPI.executor": "Run",
+    "Application.ListExample.executor": "Run",
+    "Application.MinMaxFinderTest.executor": "Run",
+    "Application.MovieListExample.executor": "Run",
+    "Application.MyBookArrayTest.executor": "Run",
+    "Application.MyObjectArrayTest.executor": "Run",
+    "Application.RANdomAPI.executor": "Run",
+    "Application.StringCompare.executor": "Run",
+    "Application.StringManipulation.executor": "Run",
+    "Application.StringSplit.executor": "Run",
+    "Application.WrapperTest.executor": "Run",
+    "Application.intArrayBasic.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jyp/Java/untitled/Mardown(jpn)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/jyp/Java/untitled/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mardown(jpn)" />
+      <recent name="$PROJECT_DIR$/Mardown(en)" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Mardown(jpn)" />
+      <recent name="$PROJECT_DIR$/Markdown(kor)" />
+      <recent name="$PROJECT_DIR$/Mardown" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fc.java.model2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MovieListExample">
+    <configuration name="CollectionBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.CollectionBasic" />
+      <module name="project-root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.IntegerStringTest" />
+      <module name="project-root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.ListExample" />
+      <module name="project-root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MovieListExample" />
+      <module name="project-root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part1.WrapperTest" />
+      <module name="project-root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MovieListExample" />
+        <item itemvalue="Application.ListExample" />
+        <item itemvalue="Application.CollectionBasic" />
+        <item itemvalue="Application.IntegerStringTest" />
+        <item itemvalue="Application.WrapperTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa3792b-ca56-45ba-b1ae-7e64d873a356" name="Changes" comment="" />
+      <created>1735486663551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735486663551</updated>
+      <workItem from="1735622383838" duration="71000" />
+      <workItem from="1735736757030" duration="1760000" />
+      <workItem from="1735888741755" duration="1068000" />
+      <workItem from="1736004517759" duration="3815000" />
+      <workItem from="1736052352651" duration="6195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/fc/java/course2/part1/MinMaxFinderTest.java</url>
+          <line>6</line>
+          <properties class="fc.java.course2.part1.MinMaxFinderTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
