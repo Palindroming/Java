@@ -19,7 +19,7 @@ public class BookArray {
     }
     public BookDTO get(int index){
         if(index<0 || index>=size){
-            throw new IndexOutOfBoundsException("범위 초과");
+            throw  new IndexOutOfBoundsException("범위 초과");
         }
         return elements[index];
     }
