@@ -5,22 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fa3792b-ca56-45ba-b1ae-7e64d873a356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Quiz2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/WhatisGeneric.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Quiz2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/ArraylistGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/AverageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/CharCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericLimitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericPairTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/UniqueNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/ObjectArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Anonymous Class.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Class and Interface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Method Reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Quiz3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Anonymous Class.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Class and Interface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Method Reference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Quiz3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionalInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionalInterfaceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/IntegerUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaApply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExampleStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MathOperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/PersonFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/SortCompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/IntegerUtills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/PersonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/StringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/model2/BookArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fc/java/model2/BookArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,55 +60,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArrayListBestTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayListTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArraylistGeneric.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharCounter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectionBasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataBaseConnection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericLimitTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericPairTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GsonFromAPI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GsonToAPI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashSetExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorldString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerStringTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InterFaceAPI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ListExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MapExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinMaxFinderTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MovieListExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyBookArrayTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyObjectArrayTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RANdomAPI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringCompare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringManipulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringSplit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UniqueNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WrapperTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.intArrayBasic.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jyp/Java/untitled/Mardown(jpn)&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/jyp/Java/untitled/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayListBestTest.executor": "Run",
+    "Application.ArrayListTest.executor": "Run",
+    "Application.ArraylistGeneric.executor": "Run",
+    "Application.CharCounter.executor": "Run",
+    "Application.CollectionBasic.executor": "Run",
+    "Application.DataBaseConnection.executor": "Run",
+    "Application.FunctionalInterfaceTest.executor": "Run",
+    "Application.FunctionalInterfaceTest2.executor": "Run",
+    "Application.GenericLimitTest.executor": "Run",
+    "Application.GenericPairTest.executor": "Run",
+    "Application.GenericTest.executor": "Run",
+    "Application.GsonFromAPI.executor": "Run",
+    "Application.GsonToAPI.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
+    "Application.HelloWorldString.executor": "Run",
+    "Application.IntegerStringTest.executor": "Run",
+    "Application.IntegerUtilsTest.executor": "Run",
+    "Application.InterFaceAPI.executor": "Run",
+    "Application.LambdaApply.executor": "Run",
+    "Application.LambdaExample.executor": "Run",
+    "Application.ListExample.executor": "Run",
+    "Application.MapExample.executor": "Run",
+    "Application.MapExample2.executor": "Run",
+    "Application.MapExampleStream.executor": "Run",
+    "Application.MinMaxFinderTest.executor": "Run",
+    "Application.MovieListExample.executor": "Run",
+    "Application.MyBookArrayTest.executor": "Run",
+    "Application.MyObjectArrayTest.executor": "Run",
+    "Application.PersonFactoryTest.executor": "Run",
+    "Application.RANdomAPI.executor": "Run",
+    "Application.SortCompareTest.executor": "Run",
+    "Application.StreamAPI.executor": "Debug",
+    "Application.StreamExample.executor": "Run",
+    "Application.StringCompare.executor": "Run",
+    "Application.StringManipulation.executor": "Run",
+    "Application.StringSplit.executor": "Run",
+    "Application.UniqueNumbers.executor": "Run",
+    "Application.WrapperTest.executor": "Run",
+    "Application.intArrayBasic.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jyp/Java/untitled/Mardown(jpn)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/jyp/Java/untitled/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Mardown(jpn)" />
@@ -111,12 +133,13 @@
       <recent name="$PROJECT_DIR$/Mardown" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fc.java.course2.part2" />
       <recent name="fc.java.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericLimitTest">
-    <configuration name="ArraylistGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.ArraylistGeneric" />
+  <component name="RunManager" selected="Application.MapExample2">
+    <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaApply" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.CharCounter" />
+    <configuration name="MapExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapExample2" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
@@ -141,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericLimitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.GenericLimitTest" />
+    <configuration name="MapExampleStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapExampleStream" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
@@ -154,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericPairTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.GenericPairTest" />
+    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamAPI" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +190,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.GenericTest" />
+    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamExample" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
@@ -182,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericLimitTest" />
-        <item itemvalue="Application.GenericPairTest" />
-        <item itemvalue="Application.ArraylistGeneric" />
-        <item itemvalue="Application.GenericTest" />
-        <item itemvalue="Application.CharCounter" />
+        <item itemvalue="Application.MapExample2" />
+        <item itemvalue="Application.MapExampleStream" />
+        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="Application.StreamAPI" />
+        <item itemvalue="Application.LambdaApply" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +235,7 @@
       <workItem from="1736004517759" duration="3815000" />
       <workItem from="1736052352651" duration="6195000" />
       <workItem from="1736217765304" duration="7342000" />
-      <workItem from="1736305645166" duration="274000" />
+      <workItem from="1736305645166" duration="10353000" />
     </task>
     <servers />
   </component>
