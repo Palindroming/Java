@@ -5,32 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fa3792b-ca56-45ba-b1ae-7e64d873a356" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Anonymous Class.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Class and Interface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Method Reference.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mardown(jpn)/Quiz3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Anonymous Class.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Class and Interface.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Method Reference.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Markdown(kor)/Quiz3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionalInterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionalInterfaceTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/IntegerUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaApply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExampleStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MathOperationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/PersonFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/SortCompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StringUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/IntegerUtills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/PersonFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/ExcelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonFromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonMemAddFromJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonMemAddtoJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsontoJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/JSoupExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/WeatherExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model3/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model3/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -74,7 +61,11 @@
     "Application.GenericPairTest.executor": "Run",
     "Application.GenericTest.executor": "Run",
     "Application.GsonFromAPI.executor": "Run",
+    "Application.GsonFromJson.executor": "Run",
+    "Application.GsonMemAddFromJson.executor": "Run",
+    "Application.GsonMemAddtoJson.executor": "Run",
     "Application.GsonToAPI.executor": "Run",
+    "Application.GsontoJson.executor": "Run",
     "Application.HashSetExample.executor": "Run",
     "Application.HelloWorldString.executor": "Run",
     "Application.IntegerStringTest.executor": "Run",
@@ -99,29 +90,35 @@
     "Application.StringManipulation.executor": "Run",
     "Application.StringSplit.executor": "Run",
     "Application.UniqueNumbers.executor": "Run",
+    "Application.WeatherExample.executor": "Run",
     "Application.WrapperTest.executor": "Run",
     "Application.intArrayBasic.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "create.test.in.the.same.root": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jyp/Java/untitled/Mardown(jpn)",
+    "last_opened_file_path": "/Users/jyp/Java/untitled/src/fc/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/jyp/Java/untitled/src/Main.java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/fc/java" />
       <recent name="$PROJECT_DIR$/Mardown(jpn)" />
       <recent name="$PROJECT_DIR$/Markdown(kor)" />
       <recent name="$PROJECT_DIR$/Mardown(en)" />
@@ -133,17 +130,18 @@
       <recent name="$PROJECT_DIR$/Mardown" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fc.java.course2.part3" />
       <recent name="fc.java.course2.part2" />
       <recent name="fc.java.model2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapExample2">
-    <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaApply" />
+  <component name="RunManager" selected="Application.WeatherExample">
+    <configuration name="GsonFromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonFromJson" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="PATTERN" value="fc.java.model3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapExample2" />
+    <configuration name="GsonMemAddFromJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonMemAddFromJson" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapExampleStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapExampleStream" />
+    <configuration name="GsonMemAddtoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsonMemAddtoJson" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamAPI" />
+    <configuration name="GsontoJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.GsontoJson" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="PATTERN" value="fc.java.model3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamExample" />
+    <configuration name="WeatherExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part3.WeatherExample" />
       <module name="project-root" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.course2.part2.*" />
+          <option name="PATTERN" value="fc.java.course2.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapExample2" />
-        <item itemvalue="Application.MapExampleStream" />
-        <item itemvalue="Application.StreamExample" />
-        <item itemvalue="Application.StreamAPI" />
-        <item itemvalue="Application.LambdaApply" />
+        <item itemvalue="Application.WeatherExample" />
+        <item itemvalue="Application.GsonMemAddFromJson" />
+        <item itemvalue="Application.GsonMemAddtoJson" />
+        <item itemvalue="Application.GsonFromJson" />
+        <item itemvalue="Application.GsontoJson" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +234,10 @@
       <workItem from="1736052352651" duration="6195000" />
       <workItem from="1736217765304" duration="7342000" />
       <workItem from="1736305645166" duration="10353000" />
+      <workItem from="1736403455564" duration="2264000" />
+      <workItem from="1736409890329" duration="649000" />
+      <workItem from="1736430454095" duration="2290000" />
+      <workItem from="1736507112292" duration="2960000" />
     </task>
     <servers />
   </component>
